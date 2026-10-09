@@ -44,7 +44,8 @@ By injecting an intelligent script, this extension automates the form-filling pr
 **مرحله ۴: اجرا در سامانه آموزشیار**
 1. وارد پرتال دانشجویی آموزشیار شوید و به منوی "ارزشیابی اساتید" بروید.
 2. پنل هوشمند ربات در گوشه صفحه باز می‌شود. دکمه **شروع خودکار** را بزنید و دست به موس و کیبورد نزنید تا ربات کارش را تمام کند و کارت امتحان شما را تحویل دهد.
-<img width="1365" height="688" alt="image" src="https://github.com/user-attachments/assets/9c0d7805-fedd-480a-b5cc-6ed3ed666b29" />
+<img width="1365" height="688" alt="image" src="https://github.com/user-attachments/assets/852dc4db-bae3-4d34-b74f-f36cf0299961" />
+
 
 ---
 
