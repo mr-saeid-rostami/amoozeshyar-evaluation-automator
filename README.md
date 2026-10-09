@@ -51,13 +51,22 @@ By injecting an intelligent script, this extension automates the form-filling pr
 
 ### 🛠 پشتیبانی و مشارکت
 از طریق لینک زیر وارد ریپو شوید و بر روی دکمه های star | watch مطابق تصویر زیر بزنید .
+---
+
 https://github.com/mr-saeid-rostami/amoozeshyar-evaluation-automator
 
+---
 <img width="1308" height="611" alt="image" src="https://github.com/user-attachments/assets/f26740b4-049b-4d7b-a3f2-79de8bee942b" />
-و در صفحه زیر بر روی دکمه Follow لمس کنید .
+
+---
+### در صفحه زیر بر روی دکمهFollow لمس کنید .
+---
+
 https://github.com/mr-saeid-rostami
+---
 <img width="1308" height="611" alt="image" src="https://github.com/user-attachments/assets/5bc5b635-ee35-4831-bae1-5e1006922c99" />
 
+---
 در صورتی که در حین کار با سایت متوجه شدید سامانه گیر کرده است، یک بار صفحه را رفرش (F5) کنید؛ ربات هوشمند است و کار را از همان‌جا که قطع شده ادامه می‌دهد. برای توقف اضطراری افزونه می‌توانید در هر لحظه کلید **P** را روی کیبورد فشار دهید.
 
 ---
